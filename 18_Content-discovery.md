@@ -31,4 +31,7 @@
  --append-domain = Append the domain to each wordlist entry
  --exclude-lengt` = Exclude responses with specific content lengths
 
- 
+ ## Key lesson
+
+ You don't have to start with immedatelay ,,hacking" into target
+ You can start with research using open source intelligence avaible on the internet
