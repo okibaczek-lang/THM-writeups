@@ -23,13 +23,13 @@
  - gobuster dns -d site -w FILE --wildcard(for dns)
  - gobuster dir -u site -w FILE(for directories)
  - gobuster vhost -u site --domain domain -w FILE --append-domain --exclude-length 250-320(for vhosts)
- -u = Target URL
- -d = Target domain
- -w = Wordlist
- --wildcard = Ignore wildcard DNS responses
- --domain = Specify the target domain
- --append-domain = Append the domain to each wordlist entry
- --exclude-lengt` = Exclude responses with specific content lengths
+  - u = Target URL
+  - d = Target domain
+  -w = Wordlist
+  - --wildcard = Ignore wildcard DNS responses
+  - --domain = Specify the target domain
+  - --append-domain = Append the domain to each wordlist entry
+  - --exclude-lengt` = Exclude responses with specific content lengths
 
  ## Key lesson
 
